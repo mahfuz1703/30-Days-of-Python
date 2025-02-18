@@ -8,6 +8,9 @@ This repository contains code and instructions for learning Python over a period
 - [Day 2: Data Types](#day-2-data-types)
   - [Strings](#strings)
   - [Variables](#variables)
+- [Day 3: Collections](#day-3-collections)
+  - [Lists](#lists)
+  - [Dictionaries](#dictionaries)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -68,6 +71,51 @@ This file demonstrates various operations and methods for Python strings. The to
 **File:** [Day 2/Variables.py](Day%202/Variables.py)
 
 This file explains variable naming conventions and provides examples of valid and invalid variable names.
+
+</details>
+
+## Day 3: Collections
+
+<details>
+  <summary>Click to expand!</summary>
+
+### Lists
+
+**File:** [Day 3/list.py](Day%203/list.py)
+
+This file demonstrates various operations and methods for Python lists. The topics covered include:
+
+- Creating a list
+- Accessing elements
+- Changing elements
+- Looping through a list
+- Checking if an item is in the list
+- List length
+- Adding elements
+- Inserting elements
+- Removing elements
+- Popping elements
+- Deleting elements
+- Clearing the list
+- List comprehension
+- Nested lists
+
+### Dictionaries
+
+**File:** [Day 3/dictionary.py](Day%203/dictionary.py)
+
+This file demonstrates various operations and methods for Python dictionaries. The topics covered include:
+
+- Creating a dictionary
+- Accessing values
+- Adding a new key-value pair
+- Updating an existing key-value pair
+- Removing a key-value pair
+- Iterating through a dictionary
+- Checking if a key exists in the dictionary
+- Dictionary methods
+- Nested dictionaries
+- Dictionary comprehension
 
 </details>
 
